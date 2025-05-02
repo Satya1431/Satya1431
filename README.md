@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Satyaprakash Singh</h1>
+<h3 align="center">Full Stack Developer | MERN | TypeScript | Next.js | Node.js</h3>
 
-<!--
-**Satya1431/Satya1431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:satyasingh0705@gmail.com">📧 Email</a> |
+  <a href="https://www.linkedin.com/in/satya1431" target="_blank">LinkedIn</a> |
+  <a href="https://github.com/Satya1431" target="_blank">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 👨‍💻 Currently working as **Full Stack Developer** at **Shiavnski Technology LLP**, Indore  
+- 🔧 Building scalable apps using **React**, **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and more  
+- 🌱 Passionate about clean code, reusable components, and performance optimization  
+- 🧠 I love working with **Redux Toolkit**, **React Query**, and **custom hooks**  
+- 📚 Always exploring new tools – currently experimenting with **N8N**, **CI/CD**, and **Docker**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+`React.js` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Material UI` · `Shadcn`
+
+**Backend:**
+`Node.js` · `Express.js` · `REST APIs` · `MongoDB` · `PostgreSQL`
+
+**Dev Tools:**
+`Git/GitHub` · `Docker` · `AWS S3` · `CI/CD` · `Postman` · `Swagger` · `N8N`
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Satya1431&show_icons=true&theme=github_dark" alt="Satya's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya1431&layout=compact&theme=github_dark" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔍 **Survey Insights Platform**  
+  SaaS-based app built from scratch using React, Redux Toolkit, and custom debounce hook  
+  🛠️ *Improved UI/UX responsiveness by 40% and reduced admin workload by 50%*  
+  👉 [GitHub Repo](https://github.com/Satya1431)
+
+- 📦 **ToDo App & Weather App**  
+  Hands-on MERN apps demonstrating CRUD operations and API integration  
+  👉 [GitHub Profile](https://github.com/Satya1431)
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: [satyasingh0705@gmail.com](mailto:satyasingh0705@gmail.com)  
+- 🔗 LinkedIn: [satya1431](https://www.linkedin.com/in/satya1431)
+
+---
+
+> ⚡ "Code with purpose, build with passion."
+
