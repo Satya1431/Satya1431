@@ -30,16 +30,6 @@
 **Dev Tools:**
 `Git/GitHub` · `Docker` · `AWS S3` · `CI/CD` · `Postman` · `Swagger` · `N8N`
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satya1431&show_icons=true&theme=github_dark" alt="Satya's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya1431&layout=compact&theme=github_dark" alt="Top Languages" height="165" />
-</p>
-
----
 
 ### 📌 Featured Projects
 
